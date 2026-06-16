@@ -1,8 +1,10 @@
 # Oi, eu sou o Nic
 
-<img align="right" width="280" src="https://images.steamusercontent.com/ugc/2430131809742063712/A384D8B30F7DECADA3592543E9B77B67B5E11C52/?imw=5000&amp;imh=5000&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false" alt="Hotline Miami animation" />
-
 Desenvolvedor full-stack em formação, com foco em aplicações web, back-end com C#/.NET e integração com bancos de dados. Tenho experiência em projetos usando ASP.NET Core MVC, Entity Framework, SQL Server, PostgreSQL e JasperReports, além de atuar no front-end com React, TypeScript, JavaScript, SCSS e HTML5.
+
+<p align="center">
+  <img width="620" src="https://images.steamusercontent.com/ugc/2430131809742063712/A384D8B30F7DECADA3592543E9B77B67B5E11C52/?imw=5000&amp;imh=5000&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false" alt="Hotline Miami animation" />
+</p>
 
 ## Sobre mim
 
@@ -44,6 +46,9 @@ Desenvolvedor full-stack em formação, com foco em aplicações web, back-end c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" title="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" title="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" alt="Visual Studio" title="Visual Studio" />
+  <img src="https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white" height="30" alt="Codex" title="Codex" />
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" height="30" alt="ChatGPT" title="ChatGPT" />
 </div>
 
 ## GitHub Stats
